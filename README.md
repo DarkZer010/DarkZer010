@@ -6,4 +6,4 @@
 
 ## Tecnologias que uso no meu dia
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkZer010&hide_progress=true)

@@ -7,5 +7,5 @@
 ## Tecnologias que uso no meu dia
 
 <div style="display: inline_block"><br/>
- <img align="center" alt="python3" src="![Python3](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)" />
+ <img align="center" alt="python" src="![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)" />
 </div>

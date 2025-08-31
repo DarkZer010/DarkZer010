@@ -6,6 +6,4 @@
 
 ## Tecnologias que uso no meu dia
 
-<div style="display: inline_block"><br/>
- <img align="center" alt="python" src="![Python](https://cdn.fedoramagazine.org/wp-content/uploads/2015/11/Python_logo.png)" />
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)

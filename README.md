@@ -7,5 +7,5 @@
 ## Tecnologias que uso no meu dia
 
 <div style="display: inline_block"><br/>
- <img align="center" alt="python" src="![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)" />
+ <img align="center" alt="python" src="![Python](https://cdn.fedoramagazine.org/wp-content/uploads/2015/11/Python_logo.png)" />
 </div>

@@ -6,6 +6,6 @@
 
 ### Tecnologias que uso
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkZer010&size_weight=0.5&count_weight=0.4)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DarkZer010&size_weight=0.5&count_weight=0.6)
 
 ### foi isso, espere que goste das minhas ferramentas!!

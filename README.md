@@ -1,5 +1,5 @@
 *Cybersecurity Student | Pentest & Malware Development*
 
-Sou um estudante de Cybersecurity especializado em *Pentest de Aplicações* e *Malware Development* com foco ofensivo ético. Meu trabalho consiste em simular ameaças reais para identificar, explorar e reportar vulnerabilidades antes que agentes maliciosos o façam.
+I am a Cybersecurity student specializing in *Application Penetration Testing* and *Malware Development* with an ethical offensive focus. My work consists of simulating real threats to identify, exploit, and report vulnerabilities before malicious actors do.
 
-> *Princípio Fundamental*: Toda pesquisa e desenvolvimento aqui realizado é aplicado exclusivamente em ambientes controlados, laboratórios autorizados, CTFs e programas de Bug Bounty. Atividades sem consentimento explícito são ilegais.
+> *Fundamental Principle*: All research and development conducted here is applied exclusively in controlled environments, authorized labs, CTFs, and Bug Bounty programs. Activities without explicit consent are illegal.

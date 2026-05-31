@@ -7,6 +7,3 @@ I am a Cybersecurity student specializing in *Application Penetration Testing* a
 
 ##### Tecnologias
 [![My Skills](https://skillicons.dev/icons?i=py,go,c,java,bash,php,mysql,linux)](https://skillicons.dev)
-
-##### Área
-[![My Skills](https://skillicons.dev/icons?i=redhat)](https://skillicons.dev)

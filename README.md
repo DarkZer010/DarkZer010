@@ -9,4 +9,4 @@ I am a Cybersecurity student specializing in *Application Penetration Testing* a
 [![My Skills](https://skillicons.dev/icons?i=go,bash,c,java,kotlin)](https://skillicons.dev)
 
 #### Platforms
-[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,mysql,linux)](https://skillicons.dev)

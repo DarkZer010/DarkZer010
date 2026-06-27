@@ -5,14 +5,8 @@ I am a Cybersecurity student specializing in *Application Penetration Testing* a
 > *Fundamental Principle*: All research and development conducted here is applied exclusively in controlled environments, authorized labs, CTFs, and Bug Bounty programs. Activities without explicit consent are illegal.
 > 
 
-#### Technologies
+#### skills
 [![My Skills](https://skillicons.dev/icons?i=go,bash,c,java,kotlin)](https://skillicons.dev)
 
-#### Platforms
+#### Technologies
 [![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,mysql,linux)](https://skillicons.dev)
-
-**Stats do Github:**
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=teuuser&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=teuuser&layout=compact&theme=tokyonight" />
-</p>

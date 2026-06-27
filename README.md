@@ -5,8 +5,9 @@ I am a Cybersecurity student specializing in *Application Penetration Testing* a
 > *Fundamental Principle*: All research and development conducted here is applied exclusively in controlled environments, authorized labs, CTFs, and Bug Bounty programs. Activities without explicit consent are illegal.
 > 
 
-#### skills
-[![My Skills](https://skillicons.dev/icons?i=go,bash,c,java,kotlin)](https://skillicons.dev)
-
 #### Technologies
+[![My Skills](https://skillicons.dev/icons?i=go,bash,c,java,kotlin&theme=dark)](https://skillicons.dev)
+
+#### Platforms
 [![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,mysql,linux)](https://skillicons.dev)
+

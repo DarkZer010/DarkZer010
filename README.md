@@ -9,5 +9,5 @@ I am a Cybersecurity student specializing in *Application Penetration Testing* a
 [![My Skills](https://skillicons.dev/icons?i=go,bash,c,java,kotlin,php,js)](https://skillicons.dev)
 
 #### Platforms
-[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,aws,mysql,postgres,linux,debian,arch)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,aws,mysql,postgres,linux)](https://skillicons.dev)
 

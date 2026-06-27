@@ -1,4 +1,4 @@
-### *Cybersecurity Student | Pentest & Malware Analyst*
+### *Cybersecurity Student | Pentest and malware analyst*
 
 I am a Cybersecurity student specializing in *Application Penetration Testing* and *Malware analysis* with an ethical offensive focus. My work consists of simulating real threats to identify, exploit, and report vulnerabilities before malicious actors do.
 

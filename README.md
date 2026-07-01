@@ -6,7 +6,7 @@ I am a Cybersecurity student specializing in *Application Penetration Testing* a
 > 
 
 #### Technologies
-[![My Skills](https://skillicons.dev/icons?i=go,bash,c,java,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,c,java)](https://skillicons.dev)
 
 #### Platforms
 [![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,mysql,git,linux)](https://skillicons.dev)

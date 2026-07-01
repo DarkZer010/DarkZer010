@@ -1,13 +1,13 @@
-### *Cybersecurity Student | Pentest and malware analyst*
+### *Estudante de Segurança Cibernética | Pentest e analista de malware*
 
-I am a Cybersecurity student specializing in *Application Penetration Testing* and *Malware analysis* with an ethical offensive focus. My work consists of simulating real threats to identify, exploit, and report vulnerabilities before malicious actors do.
+Sou um estudante de Segurança Cibernética especializado em *Teste de penetração de aplicação* e *Análise de malware* com um enfoque ético ofensivo. Meu trabalho consiste em simular ameaças reais para identificar, explorar e relatar vulnerabilidades antes que agentes maliciosos o façam.
 
-> *Fundamental Principle*: All research and development conducted here is applied exclusively in controlled environments, authorized labs, CTFs, and Bug Bounty programs. Activities without explicit consent are illegal.
+> *Princípio Fundamental*: Toda a pesquisa e desenvolvimento conduzidos aqui são aplicados exclusivamente em ambientes controlados, laboratórios autorizados, CTFs e programas Bug Bounty. Atividades sem consentimento explícito são ilegais.
 > 
 
-#### Technologies
-[![My Skills](https://skillicons.dev/icons?i=go,c,java)](https://skillicons.dev)
+#### Tecnologias
+[![Minhas habilidades](https://skillicons.dev/icons?i=go,bash,c,java,kotlin,asm)](https://skillicons.dev)
 
-#### Platforms
-[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,mysql,git,linux)](https://skillicons.dev)
+#### Plataformas
+[![Minhas habilidades](https://skillicons.dev/icons?i=vscode,androidstudio,mysql,git,linux)](https://skillicons.dev)
 

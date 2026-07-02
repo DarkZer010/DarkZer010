@@ -5,7 +5,7 @@ I am a Cybersecurity Professional specializing in *Malware Analysis* with an eth
 **Fundamental Principles**: All research and development conducted here is applied exclusively in controlled environments, authorized labs, CTFs, and Bug Bounty programs. Activities without explicit consent are illegal.
 
 #### Technologies
-[![My Skills](https://skillicons.dev/icons?i=bash,c,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=bash,powershell,cpp,kotlin)](https://skillicons.dev)
 
 #### Platforms  
 [![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,mysql,git,linux)](https://skillicons.dev)

@@ -10,5 +10,4 @@ I am a Cybersecurity Professional specializing in *Malware Analysis* with an eth
 #### Platforms  
 [![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,mysql,linux,redhat)](https://skillicons.dev)
 
-![Python](https://img.shields.io/badge/Python-3.11-blue?logo=python&logoColor=white)
-![License](https://img.shields.io/badge/license-MIT-green)
+![javascript](https://img.shields.io/badge/logo-javascript-blue?logo=javascript)

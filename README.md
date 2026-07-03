@@ -8,4 +8,4 @@ I am a Cybersecurity Professional specializing in *Malware Analysis* with an eth
 [![My Skills](https://skillicons.dev/icons?i=bash,cpp,kotlin)](https://skillicons.dev)
 
 #### Platforms  
-[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,mysql,git,linux,redhat)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,mysql,linux,redhat)](https://skillicons.dev)

@@ -9,3 +9,5 @@ I am a Cybersecurity Professional specializing in *Malware Analysis* with an eth
 
 #### Platforms  
 [![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,mysql,linux,redhat)](https://skillicons.dev)
+
+[Assembly](https://img.shields.io/badge/Assembly-1E1E2E?style=for-the-badge&logoColor=white)

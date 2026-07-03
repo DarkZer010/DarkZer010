@@ -2,7 +2,7 @@
 
 I am a Cybersecurity Professional specializing in **Malware Analysis**. My work involves dissecting malicious software in controlled environments to understand its behavior, capabilities, and persistence mechanisms.
 
-**Fundamental Principles**: All malware analysis is conducted exclusively in isolated sandboxes and authorized lab environments for defensive purposes. The goal is to understand threats, develop detection signatures, and support incident response. Reverse engineering is performed only on legally obtained samples for research and defense. Unauthorized use or distribution of malware is illegal.
+> ⚠️ **Fundamental Principles**: All malware analysis is conducted exclusively in isolated sandboxes and authorized lab environments for defensive purposes. Unauthorized use or distribution of malware is illegal.
 
 #### Technologies
 [![My Skills](https://skillicons.dev/icons?i=bash,cpp,kotlin)](https://skillicons.dev)

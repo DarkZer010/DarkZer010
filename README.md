@@ -10,6 +10,6 @@ I am a Cybersecurity Professional specializing in *Malware Analysis* with an eth
 #### Platforms  
 [![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,mysql,linux,redhat)](https://skillicons.dev)
 
-![Bash](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)

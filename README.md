@@ -1,4 +1,4 @@
-### *Cybersecurity Professional | Malware Analyst*
+### *Cybersecurity Professional | Malware Analyst* [![My Skills](https://skillicons.dev/icons?i=redhat)](https://skillicons.dev)
 
 I am a Cybersecurity Professional specializing in *Malware Analysis* with an ethical offensive focus. My work consists of simulating real-world threats to identify, exploit, and report vulnerabilities before malicious actors do.
 
@@ -8,4 +8,4 @@ I am a Cybersecurity Professional specializing in *Malware Analysis* with an eth
 [![My Skills](https://skillicons.dev/icons?i=bash,cpp,kotlin)](https://skillicons.dev)
 
 #### Platforms  
-[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,mysql,linux,redhat)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,androidstudio,mysql,linux)](https://skillicons.dev)
